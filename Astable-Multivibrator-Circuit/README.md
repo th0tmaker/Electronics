@@ -59,9 +59,6 @@ slightly different values due to their nature, so one transistor will always tur
 ## Circuit Simulation
 ![CircuitSim](images/circuit_sim.gif)
 
-## Live Presentation
-![VideoDemo](images/video_demo.gif)
-
 ## Circuit calculations
 
 ### Charging Time (T_high)
